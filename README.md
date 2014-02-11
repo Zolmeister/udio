@@ -1,2 +1,2 @@
-# udio-sails
-### a Sails application
+# udio
+### Bare bones concept for an app
